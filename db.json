@@ -63,5 +63,8 @@
     ],
     "products":[],
     "login":[],
-    "signup":[]
+    "signup":[],
+    "prod": [],
+    "items": [],
+    "prods":[]
   }
